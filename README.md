@@ -1,5 +1,5 @@
 ### Wassup? 🤓
-My real name is Bruno, but i like to use Ansired as my name in the internet. 
+My real name is Bruno, but I like to use Ansired as my name in the internet. 
 Currently I'm trying to learn Unity to make games. Hope someday I'll publish something so you can play it!
 In this profile I'll public all of my games and projects. 
 And that's it! 😃
