@@ -1,4 +1,10 @@
-### Hi there 👋
+### Wassup? 🤓
+My real name is Bruno, but i like to use Ansired as my name in the internet. 
+Currently I'm trying to learn Unity to make games. Hope someday I'll publish something so you can play it!
+In this profile I'll public all of my games and projects. 
+And that's it! 😃
+
+<img height="160cm" src="https://github-readme-stats.vercel.app/api?username=Ansired&theme=dracula&show_icons=true&layout=compact">
 
 <!--
 **Ansired/Ansired** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
